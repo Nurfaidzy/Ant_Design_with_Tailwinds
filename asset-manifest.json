@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ant_Design_with_Tailwinds/static/css/main.95ff2e63.css",
+    "main.js": "/Ant_Design_with_Tailwinds/static/js/main.65fb65e1.js",
+    "static/js/787.af628294.chunk.js": "/Ant_Design_with_Tailwinds/static/js/787.af628294.chunk.js",
+    "static/media/wpp1.jpeg": "/Ant_Design_with_Tailwinds/static/media/wpp1.f3723e55bd16ef58a13f.jpeg",
+    "static/media/phonejpg.jpeg": "/Ant_Design_with_Tailwinds/static/media/phonejpg.bd2c6256e81f1e274b5d.jpeg",
+    "index.html": "/Ant_Design_with_Tailwinds/index.html",
+    "main.95ff2e63.css.map": "/Ant_Design_with_Tailwinds/static/css/main.95ff2e63.css.map",
+    "main.65fb65e1.js.map": "/Ant_Design_with_Tailwinds/static/js/main.65fb65e1.js.map",
+    "787.af628294.chunk.js.map": "/Ant_Design_with_Tailwinds/static/js/787.af628294.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ff2e63.css",
+    "static/js/main.65fb65e1.js"
+  ]
+}
